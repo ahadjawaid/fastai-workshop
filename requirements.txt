@@ -1,0 +1,5 @@
+duckduckgo-search==2.8.5
+torch
+fastai
+notebook
+gradio
