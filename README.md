@@ -1,27 +1,27 @@
-# fastai-workshop
+# Setup
 
-You can install Anaconda at:
+## Install Anaconda at:
 
 https://docs.conda.io/en/latest/miniconda.html
 
-To make an enviroment:
-'''
+## To create an enviroment:
+```
 conda create --name torch
-'''
+```
 
-Activate enviroment:
-'''
+## Activate enviroment:
+```
 conda activate torch 
-'''
+```
 
-To install dependencies you can either:
+## Install dependencies:
 
-'''
+```
 conda install requirements.txt
-'''
+```
 or 
 
-'''
+```
 pip install requirements.txt
-'''
+```
 
