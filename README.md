@@ -1,5 +1,10 @@
 # Setup
 
+## Clone repository
+```
+git clone https://github.com/ahadjawaid/fastai-workshop.git
+```
+
 ## Install Anaconda at:
 
 https://docs.conda.io/en/latest/miniconda.html
