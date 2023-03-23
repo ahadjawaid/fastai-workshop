@@ -22,7 +22,7 @@ conda activate torch
 ## Install dependencies:
 
 ```
-conda install requirements.txt
+conda install requirements.txt -c conda-forge
 ```
 or 
 
